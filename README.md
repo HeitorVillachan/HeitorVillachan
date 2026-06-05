@@ -1,18 +1,12 @@
 # Heitor-Villachan
-<h1 align="center">Olá, eu sou o Heitor 👋</h1>
+<h1 align="center"> Heitor Villa-chan </h1>
 
 <p align="center">
-Desenvolvedor apaixonado por programação, Arduino e desenvolvimento web.
+Estudante de Ciência da Computação na CESAR School. Neste perfil você encontrará os projetos, desafios e conhecimentos que venho desenvolvendo ao longo do curso
 </p>
 
-## 🚀 Atualmente
 
-- 🌱 Aprendendo JavaScript e Python
-- 🔭 Desenvolvendo projetos com Arduino
-- 💻 Estudando HTML, CSS e Git
-- 📫 Contato: heitorcantalupo663@gmail.com
-
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
